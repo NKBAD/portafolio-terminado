@@ -144,7 +144,7 @@ a{
     text-align: center;
 }
 
-#conocimientos .container2{
+#conocimientos .container{
     padding: 200px 12px;
 }
 
@@ -168,11 +168,11 @@ a{
 }
 
 #mis-proyectos .container2{
-    padding: 200px 12px;
+    padding: 190px 12px;
 }
 
 .slider-frame {
-	width: 500px;
+	width: 550px;
     height: auto;
 	margin:50px auto 0;
 	overflow: hidden;
@@ -421,6 +421,7 @@ footer .container{
         text-align: center;
         margin-bottom: 100px;
         color: white;
+        text-decoration: underline;
 
     }
 
@@ -466,4 +467,3 @@ footer .container{
             background-position-x: calc(100vw - 800px);
         }
     }
-    
